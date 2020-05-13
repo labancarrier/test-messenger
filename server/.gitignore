@@ -24,4 +24,4 @@ yarn-error.log*
 
 # db
 .env
-config/keys.json
+config/.json
