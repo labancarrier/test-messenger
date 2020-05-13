@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://labancarrier:carrier5@cluster0-namkv.mongodb.net/test?retryWrites=true&w=majority"
+}
